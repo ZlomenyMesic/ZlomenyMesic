@@ -1,7 +1,7 @@
 # Hi, I'm ZlomenyMesic 👽
 
 
-## Languages
+## 💻 Languages
 
 <table>
 <tr>
@@ -32,6 +32,20 @@
 
 ---
 
-## Highlighted Repository
+## 🦐 Highlighted Repository
+
+<table>
+<tr>
+<td valign="middle">
+
+<img src="https://raw.githubusercontent.com/ZlomenyMesic/ZlomenyMesic/main/assets/KrevetaLogo.png" width="120" alt="Kreveta Logo"/>
+
+</td>
+
+<td valign="middle">
 
 ![Kreveta Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=ZlomenyMesic&repo=Kreveta&theme=radical)
+
+</td>
+</tr>
+</table>
