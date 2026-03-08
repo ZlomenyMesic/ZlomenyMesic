@@ -4,7 +4,7 @@
 <tr>
 <td width="30%">
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZlomenyMesic&layout=pie)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZlomenyMesic&layout=pie&theme=radical)
 
 </td>
 <td width="25%" valign="middle">
