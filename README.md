@@ -1,18 +1,17 @@
 # Hi, I'm ZlomenyMesic 👽
 
-
-## 💻 Languages
-
 <table>
 <tr>
-<td width="45%">
+<td width="30%">
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZlomenyMesic&layout=pie)
 
 </td>
-<td width="55%" valign="middle">
+<td width="25%" valign="middle">
 
-**Favorite Languages**
+<div align="center">
+
+**👍 Top Languages**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
 <img src="https://raw.githubusercontent.com/ZlomenyMesic/ZlomenyMesic/main/assets/C.png" width="auto" height="40" alt="C"/>
@@ -21,30 +20,21 @@
 
 &nbsp;
 
-**Least Favorite Languages**
+**👎 Least Favorite Languages**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="40" height="40" alt="CMake"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
 
 </td>
-</tr>
-</table>
+</div>
+<td width="45%">
 
----
-
-## 🦐 Highlighted Repository
-
-<table>
-<tr>
-<td valign="middle">
-
-<img src="https://raw.githubusercontent.com/ZlomenyMesic/ZlomenyMesic/main/assets/KrevetaLogo.png" width="120" alt="Kreveta Logo"/>
-
-</td>
-
-<td valign="middle">
+## **🦐 Highlighted Repository**
 
 ![Kreveta Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=ZlomenyMesic&repo=Kreveta&theme=radical)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZlomenyMesic/ZlomenyMesic/main/assets/KrevetaLogo.png" width="100" alt="Kreveta Logo"/>
+</div>
 
 </td>
 </tr>
