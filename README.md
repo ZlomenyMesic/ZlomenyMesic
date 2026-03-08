@@ -1,1 +1,1 @@
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=ZlomenyMesic&layout=pie)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZlomenyMesic&layout=pie)
